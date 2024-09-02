@@ -4,7 +4,7 @@
 - Repositório com as atividades retiradas do livro escrito pela autora Loiane Groner.
 ## Autores
 
-- [@ramon.god](https://github.com/Ramonlegend)
+- [@ramoon.god](https://github.com/Ramonlegend)
 - [@phbonomo](https://github.com/bonomo06)
 
 
